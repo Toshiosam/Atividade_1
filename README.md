@@ -1,4 +1,9 @@
 exercicios de EDB, arquivos compilados e testados 
+os arquivos estão todos na mesma pasta por problemas na hora de compilar e 
+para que a compilação ocorra sem problemas todos os arquivos estão na mesma pasta (pra mim funcionou)
+
+
+
 
 funçoes implementadas:
 
